@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/amarachukwuonu4" target="blank"><img src="https://img.shields.io/twitter/follow/amarachukwuonu4?logo=twitter&style=for-the-badge" alt="amarachukwuonu4" /></a> </p>
 
-- 🌱 I’m currently learning **Express.js,gsap,react**
+- 🌱 I’m currently learning **Express.js,gsap,react,three.js**
 
-- 👨‍💻 All of my projects are available at [https://amarachukwu.vercel.app/](https://amarachukwu.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://reactportfolio-fawn-zeta.vercel.app/]([(https://reactportfolio-fawn-zeta.vercel.app/)]
 
 - 📫 How to reach me **amarachukwuonuohabars007@gmail.com**
 
