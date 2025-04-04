@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Express.js,gsap,react,three.js**
 
-- 👨‍💻 All of my projects are available at [https://reactportfolio-fawn-zeta.vercel.app/]([(https://reactportfolio-fawn-zeta.vercel.app/)]
+- 👨‍💻 All of my projects are available at [https://amarachukwu-dev.vercel.app/]([(https://amarachukwu-dev.vercel.app/)]
 
 - 📫 How to reach me **amarachukwuonuohabars007@gmail.com**
 
