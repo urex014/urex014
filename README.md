@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/amarachukwuonu4" target="blank"><img src="https://img.shields.io/twitter/follow/amarachukwuonu4?logo=twitter&style=for-the-badge" alt="amarachukwuonu4" /></a> </p>
 
-- 🌱 I’m currently learning **Express.js,gsap,react,three.js**
+- 🌱 I’m currently learning **Express.js,gsap,next,three.js**
 
 - 👨‍💻 All of my projects are available at [https://amarachukwu-dev.vercel.app/]
 
