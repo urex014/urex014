@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=urex014&show_icons=true&theme=tokyonight" />
 </p>
 
-
+<p align="center">
 🧩 Currently Working On
 ✨ 3D Globe with gesture controls
 
@@ -13,11 +13,8 @@
 
 🛒 E-commerce API with Node + Mongo
 
-🧠 Preparing for AI & Data Science roles
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-</p>
+🧠 Preparing for AI & Data Science roles</p>
+<h3 align="center">Connect with me:</h3>
 
 <h3 align="center">Languages and Tools:</h3>
 💻 Languages: JavaScript, python 
