@@ -2,20 +2,20 @@
 <h3 align="center">A Full-stack developer from Nigeria</h3>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=urex014&show_icons=true&theme=radical" alt="amara's github stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="amara's streak stats"/> </p>
+🧩 Currently Working On
+✨ 3D Globe with gesture controls
 
-- 🌱 I’m currently learning **Express.js,three.js,tensorflow.js**
+📱 Resume ATS tracker
 
-- 👨‍💻 All of my projects are available at [https://www.amarachukwu.com.ng/]
+🛒 E-commerce API with Node + Mongo
 
-- 📫 How to reach me **amarachukwuonuohabars007@gmail.com**
-
+🧠 Preparing for AI & Data Science roles
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amarachukwuonu4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amarachukwuonu4" height="30" width="40" /></a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-`bash
+<h3 align="center">Languages and Tools:</h3>
 💻 Languages: JavaScript, python 
 🌐 Frontend: React, Next.js, Tailwind CSS, React Native  
 🧠 AI/ML: TensorFlow.js, MediaPipe, Three.js  
