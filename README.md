@@ -19,7 +19,7 @@
 
 <h3 style="display:flex; flex-direction:column;"
   align="center">Languages and Tools:</h3>
-  <ul>
+  <ul align="center>
    <li> 💻 Languages: JavaScript, python </li>
     <li>🌐 Frontend: React, Next.js, Tailwind CSS, React Native </li>
    <li> 🧠 AI/ML: TensorFlow.js, MediaPipe, Three.js  </li>
