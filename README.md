@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amarachukwu Onuoha</h1>
 <h3 align="center">A Full-stack developer from Nigeria</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urex014&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urex014&show_icons=true&theme=tokyonight)
+
 
 🧩 Currently Working On
 ✨ 3D Globe with gesture controls
@@ -24,4 +25,4 @@
 🔧 Tools: Git, Docker, Vite, Figma, Postman  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=urex014&show_icons=true&locale=en&layout=compact" alt="urex014" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=urex014&" alt="urex014" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=urex014&" /></p>
