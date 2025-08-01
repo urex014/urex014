@@ -5,26 +5,27 @@
   <img src="https://github-readme-stats.vercel.app/api?username=urex014&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
+<h2 align="center">
   🧩 Currently Working On
-  ✨ 3D Globe with gesture controls
+</h2>
+  <li align="center">✨ 3D Globe with gesture controls</li>
   
-  📱 Resume ATS tracker
+  <li align="center">📱 Resume ATS tracker</li>
   
-  🛒 E-commerce API with Node + Mongo
+  <li align="center">🛒 E-commerce API with Node + Mongo</li>
   
-  🧠 Preparing for AI & Data Science roles
-  </p>
+  <li align="center">🧠 Preparing for AI & Data Science roles</li>
+  
 <h3 align="center">Connect with me:</h3>
 
 <h3 style="display:flex; flex-direction:column;"
   align="center">Languages and Tools:</h3>
-  <ul align="center>
-   <li> 💻 Languages: JavaScript, python </li>
-    <li>🌐 Frontend: React, Next.js, Tailwind CSS, React Native </li>
-   <li> 🧠 AI/ML: TensorFlow.js, MediaPipe, Three.js  </li>
-    <li>🛠️ Backend: Node.js, Express, MongoDB, Laravel </li> 
-    <li>🔧 Tools: Git, Docker, Vite, Figma, Postman </li>
+  <ul>
+   <li align="center"> 💻 Languages: JavaScript, python </li>
+    <li align="center">🌐 Frontend: React, Next.js, Tailwind CSS, React Native </li>
+   <li align="center"> 🧠 AI/ML: TensorFlow.js, MediaPipe, Three.js  </li>
+    <li align="center">🛠️ Backend: Node.js, Express, MongoDB, Laravel </li> 
+    <li align="center">🔧 Tools: Git, Docker, Vite, Figma, Postman </li>
   </ul>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=urex014&show_icons=true&locale=en&layout=compact" alt="urex014" /></p>
