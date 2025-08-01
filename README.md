@@ -16,7 +16,7 @@
   
   <li align="center">🧠 Preparing for AI & Data Science roles</li>
   
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:<a href="https://amarachukwu.com.ng">my portfolio</a></h3>
 
 <h3 style="display:flex; flex-direction:column;"
   align="center">Languages and Tools:</h3>
