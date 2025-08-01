@@ -17,7 +17,8 @@
   </p>
 <h3 align="center">Connect with me:</h3>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 style="display:flex; flex-direction:column;"
+  align="center">Languages and Tools:</h3>
 💻 Languages: JavaScript, python 
 🌐 Frontend: React, Next.js, Tailwind CSS, React Native  
 🧠 AI/ML: TensorFlow.js, MediaPipe, Three.js  
