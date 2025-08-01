@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amarachukwu Onuoha</h1>
 <h3 align="center">A Full-stack developer from Nigeria</h3>
 
-<p align="left"> <a href="https://twitter.com/amarachukwuonu4" target="blank"><img src="https://img.shields.io/twitter/follow/amarachukwuonu4?logo=twitter&style=for-the-badge" alt="amarachukwuonu4" /></a> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="amara's github stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="amara's streak stats"/> </p>
 
 - 🌱 I’m currently learning **Express.js,three.js,tensorflow.js**
 
