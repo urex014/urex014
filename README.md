@@ -19,11 +19,13 @@
 
 <h3 style="display:flex; flex-direction:column;"
   align="center">Languages and Tools:</h3>
-💻 Languages: JavaScript, python 
-🌐 Frontend: React, Next.js, Tailwind CSS, React Native  
-🧠 AI/ML: TensorFlow.js, MediaPipe, Three.js  
-🛠️ Backend: Node.js, Express, MongoDB, Laravel  
-🔧 Tools: Git, Docker, Vite, Figma, Postman 
+  <ul>
+   <li> 💻 Languages: JavaScript, python </li>
+    <li>🌐 Frontend: React, Next.js, Tailwind CSS, React Native </li>
+   <li> 🧠 AI/ML: TensorFlow.js, MediaPipe, Three.js  </li>
+    <li>🛠️ Backend: Node.js, Express, MongoDB, Laravel </li> 
+    <li>🔧 Tools: Git, Docker, Vite, Figma, Postman </li>
+  </ul>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=urex014&show_icons=true&locale=en&layout=compact" alt="urex014" /></p>
 
