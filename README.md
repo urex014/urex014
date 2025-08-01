@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amarachukwu Onuoha</h1>
 <h3 align="center">A Full-stack developer from Nigeria</h3>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urex014&show_icons=true&theme=tokyonight)
+<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=urex014&show_icons=true&theme=tokyonight)</p>
 
 
 🧩 Currently Working On
