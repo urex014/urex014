@@ -8,13 +8,12 @@
 <h2 align="center">
   🧩 Currently Working On
 </h2>
-  <li align="center">✨ 3D Globe with gesture controls</li>
   
   <li align="center">📱 Resume ATS tracker</li>
   
   <li align="center">🛒 E-commerce API with Node + Mongo</li>
   
-  <li align="center">🧠 Preparing for AI & Data Science roles</li>
+  <li align="center">🧠 Preparing for AI & machine learning</li>
   
 <h3 align="center">Connect with me:<a href="https://amarachukwu.com.ng">my portfolio</a></h3>
 
