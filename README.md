@@ -10,12 +10,11 @@
 </h2>
   
   <li align="center">📱 Resume ATS tracker</li>
-  
-  <li align="center">🛒 E-commerce API with Node + Mongo</li>
+
   
   <li align="center">🧠 Preparing for AI & machine learning</li>
   
-<h3 align="center">Connect with me:<a href="https://amarachukwu.com.ng">my portfolio</a></h3>
+<h3 align="center">Connect with me and check out my projects:<a href="https://amarachukwu.com.ng">my portfolio</a></h3>
 
 <h3 style="display:flex; flex-direction:column;"
   align="center">Languages and Tools:</h3>
