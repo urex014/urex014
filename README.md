@@ -23,7 +23,7 @@
 I build scalable full-stack applications with a strong focus on modern UI, performance, and AI integration.
 
 - 📍 Based in Nigeria  
-- 🧩 Currently building: **Resume ATS Tracker**
+- 🧩 Currently building: **Automated Job Application bot**
 - 🧠 Deepening expertise in **AI & Machine Learning**
 - 🔥 Focused on building impactful, production-ready systems  
 
@@ -44,7 +44,7 @@ TensorFlow.js · MediaPipe · Three.js
 Foundry . anvil 
 
 ### 🛠 Backend
-Node.js · Express · MongoDB · Laravel  
+Node.js · Express · MongoDB · Posgresql
 
 ### ⚙ Tools
 Git · Docker · Vite · Figma · Postman  
