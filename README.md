@@ -41,7 +41,7 @@ React · Next.js · Tailwind CSS · React Native
 TensorFlow.js · MediaPipe · Three.js  
 
 ###  WEB3
-Foundry . anvil 
+Hardhat . Solidity 
 
 ### 🛠 Backend
 Node.js · Express · MongoDB · Posgresql
@@ -54,5 +54,5 @@ Git · Docker · Vite · Figma · Postman
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.amarachukwu.com.ng" target="_blank">Portfolio</a>
+  <a href="https://www.amarachukwu.name.ng" target="_blank">Portfolio</a>
 </p>
