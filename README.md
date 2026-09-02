@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Amarachukwu Onuoha 👋</h1>
-  <h3>Full Stack Developer | AI & Web3 Focused Builder</h3>
+  <h3>Full Stack Developer | ML & Web3 Focused Builder</h3>
 
   <p>
     <a href="https://amarachukwu.com.ng" target="_blank">
@@ -71,5 +71,5 @@ I build scalable full-stack applications with a strong focus on modern UI, perfo
 
 ## 📫 Connect With Me
 
-> 🌐 **Portfolio:** [amarachukwu.com.ng](https://amarachukwu.com.ng)  
-> ✉️ **Email:** [Drop me an email](mailto:YOUR_EMAIL_ADDRESS)
+> 🌐 **Portfolio:** [amarachukwu.com.ng](https://amarachukwu.name.ng)  
+> ✉️ **Email:** [Drop me an email](mailto:amarachukwuonuoha22@gmail.com)
